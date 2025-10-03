@@ -38,9 +38,11 @@ Currently expanding into **Microservices** and **Cloud-native systems**.
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmmann&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmmann&layout=compact&theme=radical)  
+-->
 
 ---
 
