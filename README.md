@@ -53,7 +53,6 @@ Currently expanding into **Microservices** and **Cloud-native systems**.
 ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-5C2D91?logo=dotnet&logoColor=fff&style=flat)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 
 ---
